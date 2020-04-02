@@ -1,3 +1,8 @@
+# Thành viên:
+#   Phan Thế Giang 17021236 
+#   Nguyễn Huy Hoàng 17020052
+#   Phan Quang Hưng 17021270
+
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import LeaveOneOut
